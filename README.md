@@ -916,11 +916,9 @@ BOOSE is provided as-is for educational purposes.
 
 ---
 
-*Document Version: 1.0*  
+*Document Version: 2 0.1*  
 *Last Updated: January 11, 2026*  
 *Developed by: Rishav Rauniyar*
 
 
 
-#The BOOSE Documentation Site
-HERE IS DOCUMENTATION LINK [BOOSE DOCS](https://github.com/rauniyarrishav951/ASE-Documentation/tree/main/XML%20Documentation/XML%20Documentation-%202nd%20Component)
